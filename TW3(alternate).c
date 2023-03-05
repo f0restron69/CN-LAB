@@ -14,17 +14,10 @@ int main()
             dist[i][i]=0;
             temp[i][j]=j;
         }
-        //printf("\n");
+     
 	}
      dvr();
-    /* printf("enter value of i &j:");
-     scanf("%d",&i);
-	 scanf("%d",&j);
-	 printf("enter the new cost");
-	 scanf("%d",&x);
-	 dist[i][j]=x;
-	 printf("After update\n\n");
-     dvr(); */
+   
 	 return 0;
 }
 void dvr()
